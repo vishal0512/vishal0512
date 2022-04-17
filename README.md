@@ -1,4 +1,4 @@
-### Hi there 👋🏻 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Hi there 👋🏻Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 I am currently working as a Benefits Ops Administrator at [**Wipro**](https://www.wipro.com/). I come with an extensive experience of working with different domains including Finance, , Sales, Banking , Health & Welfare
 
