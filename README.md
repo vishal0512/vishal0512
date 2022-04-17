@@ -4,6 +4,9 @@ I am currently working as a Benefits Ops Administrator at [**Wipro**](https://ww
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="300">
 
 In the past, I have worked with [**HCL**](https://www.hcl.com/) [**Byjus**](https://www.byjus.com/) and [**T.cs**](https://www.tcs.com/).
+- 👀 I’m interested in Data Analytics and Visulization 
+- 🌱 I’m currently learning Data science
+- 💞️ I’m looking to collaborate on ML,SQL,Power BI & Excel projects
 
 ### Things I'm good at :fire:
 
@@ -19,10 +22,6 @@ In the past, I have worked with [**HCL**](https://www.hcl.com/) [**Byjus**](http
 
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/917905509498) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/yTQT8iR5rb25) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/vishal-mishra-40535a191/) 
 [![Gmail Badge](https://img.shields.io/badge/-VishalMishra-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:vishalmishra0665@gmail.com)](mailto:vishalmishra0665@gmail.com)
-- 👀 I’m interested in Data Analytics and Visulization 
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on ML,SQL,Power BI & Excel projects
-
 <!---
 vishal0512/vishal0512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
