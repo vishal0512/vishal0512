@@ -1,11 +1,11 @@
 
 # Hi there 👋🏻Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-I am currently working as a Benefits Ops Administrator at [**Wipro**](https://www.wipro.com/). I come with an extensive experience of working with different domains including Finance, , Sales, Banking , Health & Welfare
+I am currently working as a Managment and Reporting Analyst at [**Accenture**](https://www.accenture.com/). I come with an extensive experience of working with different domains including Insurance,Finance, HR , Sales, Banking , Health & Welfare
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="300">
 
-In the past, I have worked with [**HCL**](https://www.hcl.com/) [**Byjus**](https://www.byjus.com/) and [**T.cs**](https://www.tcs.com/).
+In the past, I have worked with [**Wipro**](https://www.wipro.com/)  [**HCL**](https://www.hcl.com/) and [**T.cs**](https://www.tcs.com/).
 - 👀 I’m interested in Data Analytics and Visulization 
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on ML,SQL,Power BI & Excel projects
